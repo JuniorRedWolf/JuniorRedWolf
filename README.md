@@ -15,6 +15,6 @@ Sou investigador digital e especialista em cibersegurança. Meu foco de estudo e
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" height="150" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuniorRedWolf&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorRedWolf&layout=compact&theme=dark" height="150" alt="Linguagens Mais Usadas" />
 </div>
