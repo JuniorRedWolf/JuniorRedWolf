@@ -16,10 +16,3 @@ Sou investigador digital e especialista em cibersegurança. Meu foco de estudo e
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📊 Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuniorRedWolf&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorRedWolf&layout=compact&theme=dark" height="150" alt="Linguagens Mais Usadas" />
-</div>
